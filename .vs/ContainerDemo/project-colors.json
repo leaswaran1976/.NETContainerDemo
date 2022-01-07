@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b14cc14e-382f-4bc5-9c1b-ec5bab5197fd": {
+      "ProjectGuid": "b14cc14e-382f-4bc5-9c1b-ec5bab5197fd",
+      "DisplayName": "Intake",
+      "ColorIndex": 0
+    },
+    "83dc1575-12e1-491a-ad9f-3e90d0d8d703": {
+      "ProjectGuid": "83dc1575-12e1-491a-ad9f-3e90d0d8d703",
+      "DisplayName": "PreCheck",
+      "ColorIndex": 1
+    },
+    "1da803ca-2932-424b-b1ae-add7370bc36f": {
+      "ProjectGuid": "1da803ca-2932-424b-b1ae-add7370bc36f",
+      "DisplayName": "StateMachine",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
